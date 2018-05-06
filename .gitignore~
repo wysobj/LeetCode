@@ -2,5 +2,3 @@ target
 .idea
 *.py
 __pycache__
-*.iml
-
